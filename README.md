@@ -1,1 +1,1 @@
-# ATReleaseIphoneosBinSpecs
+# ATDebugIphoneosBinSpecs
